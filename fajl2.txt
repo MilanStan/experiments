@@ -1,1 +1,2 @@
 fajl2.txt je dodat na grani 5
+fajl2 izmenjen na grani 5
