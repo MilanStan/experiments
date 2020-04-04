@@ -1,2 +1,1 @@
 fajl2 dodat na grani4
-fajl2.txt je dodat na grani 5
