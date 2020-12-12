@@ -1,3 +1,4 @@
 fajl1.txt izmenjen lokalno
 fajl1.txt izmenjen na github-u
 fajl1 izmenjen na grani 4
+izmena na remote grani 4
