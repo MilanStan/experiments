@@ -1,1 +1,2 @@
 izmena u novifajl2 defaultna lista
+Demonstracija merge conflicta
